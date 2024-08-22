@@ -1,0 +1,14 @@
+C:\Users\sc\Desktop\DataConnect\DataConnect\bin\Debug\DataConnect.exe.config
+C:\Users\sc\Desktop\DataConnect\DataConnect\bin\Debug\DataConnect.exe
+C:\Users\sc\Desktop\DataConnect\DataConnect\bin\Debug\DataConnect.pdb
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.csprojAssemblyReference.cache
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.Form1.resources
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.Properties.Resources.resources
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.csproj.GenerateResource.cache
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.csproj.CoreCompileInputs.cache
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.exe
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.pdb
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.FormAdd.resources
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.FormChange.resources
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.FormDel.resources
+C:\Users\sc\Desktop\DataConnect\DataConnect\obj\Debug\DataConnect.FormFind.resources
